@@ -1,2 +1,6 @@
-/target
+/target/debug/*
+/target/release/*
+!/target/release/discord-bot.exe
+/target/.rustc_info.json
+/target/CACHEDIR.TAG
 run.sh
